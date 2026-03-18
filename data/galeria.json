@@ -1,0 +1,18 @@
+[
+    {
+        "imagen": "public/uploads/galeria/aulas-renovadas.jpg",
+        "descripcion": "Espacios renovados para la comunidad educativa"
+    },
+    {
+        "imagen": "public/uploads/galeria/encuentrodeportivo.jpg",
+        "descripcion": "Encuentro deportivo y recreativo"
+    },
+    {
+        "imagen": "public/uploads/galeria/trabajocolaborativo.jpg",
+        "descripcion": "Trabajo colaborativo durante una jornada institucional"
+    },
+    {
+        "imagen": "public/uploads/galeria/actividadescolar.jpeg",
+        "descripcion": "Registro de una actividad escolar"
+    }
+]

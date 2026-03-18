@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "Nueva agenda de actividades para familias",
+        "subtitulo": "13 de marzo de 2026",
+        "descripcion": "Se presentó una agenda de talleres y encuentros para fortalecer el vínculo entre escuela, familias y cooperadora.",
+        "detalles": "La nueva agenda incluye charlas abiertas, jornadas de acompañamiento escolar y espacios de colaboración para proyectos institucionales. El objetivo es sumar participación y sostener propuestas que mejoren la vida cotidiana de la comunidad educativa.",
+        "imagen": "public/uploads/noticias/actividadesfamilias.png",
+        "fecha": "2026-03-13 18:30:00"
+    },
+    {
+        "titulo": "Colecta solidaria para útiles escolares",
+        "subtitulo": "13 de marzo de 2026 | Campaña institucional",
+        "descripcion": "Se puso en marcha una nueva colecta para reunir materiales destinados a estudiantes que los necesiten.",
+        "detalles": "La campaña se organiza desde la cooperadora junto a docentes y preceptoría, con el fin de reunir útiles escolares y materiales de trabajo para acompañar el ciclo lectivo. La comunidad puede acercar donaciones durante toda la semana en los horarios informados por la escuela.",
+        "imagen": "public/uploads/noticias/colectautilesescolares.jpg",
+        "fecha": "2026-03-12 17:00:00"
+    },
+    {
+        "titulo": "Mejoras en los baños de la escuela",
+        "subtitulo": "8 de marzo de 2026 | Infraestructura",
+        "descripcion": "Finalizaron las tareas de reacondicionamiento y puesta en valor de los sanitarios.",
+        "detalles": "La cooperadora acompañó la compra de materiales y la organización del trabajo junto a la comunidad educativa. Con esta mejora se renovaron tuberías, sectores de pintura y arreglos generales para dejar los espacios en mejores condiciones de uso diario.",
+        "imagen": "public/uploads/noticias/mejoras-en-los-banos.jpg",
+        "fecha": "2026-03-08 11:00:00"
+    },
+    {
+        "titulo": "Jornada deportiva abierta a estudiantes",
+        "subtitulo": "5 de marzo de 2026 | Vida escolar",
+        "descripcion": "Se realizó una nueva fecha de actividades recreativas y deportivas para distintos cursos.",
+        "detalles": "La propuesta incluyó juegos cooperativos, actividades de integración y una jornada pensada para fortalecer la participación estudiantil. El evento se organizó en conjunto con docentes y colaboradores, y contó con muy buena convocatoria.",
+        "imagen": "public/uploads/noticias/encuentrodeportivo.jpg",
+        "fecha": "2026-03-05 10:00:00"
+    },
+    {
+        "titulo": "Feria solidaria para reunir fondos",
+        "subtitulo": "28 de febrero de 2026 | Cooperadora",
+        "descripcion": "La comunidad participó de una jornada especial para sostener nuevos proyectos de la cooperadora.",
+        "detalles": "Durante la feria se ofrecieron productos elaborados por familias y colaboradores, con el objetivo de reunir fondos para seguir mejorando espacios y materiales de uso común. La actividad funcionó también como espacio de encuentro y colaboración entre cursos y familias.",
+        "imagen": "public/uploads/noticias/feriasolidaria.jpg",
+        "fecha": "2026-02-28 16:00:00"
+    },
+    {
+        "titulo": "Proyecto de biblioteca y rincón de lectura",
+        "subtitulo": "20 de febrero de 2026 | Lectura y comunidad",
+        "descripcion": "Se puso en marcha una iniciativa para ampliar materiales de lectura y acondicionar un nuevo sector común.",
+        "detalles": "La cooperadora comenzó a reunir libros, mobiliario y elementos de apoyo para crear un espacio de lectura más cómodo y accesible. La propuesta busca acompañar actividades escolares y generar un lugar de encuentro para estudiantes y docentes.",
+        "imagen": "public/uploads/noticias/biblioteca.jpg",
+        "fecha": "2026-02-20 09:00:00"
+    }
+]
