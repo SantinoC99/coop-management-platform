@@ -1,5 +1,17 @@
 # Coop Management Platform 
-**Plataforma web para cooperadora escolar**
+**(English version below / Versión en español a continuación)**
+
+## Project Overview (English Summary)
+Digital transformation platform developed to modernize school cooperative management. This was my final capstone project as a **Programming Technician**.
+
+* **Role**: Lead Developer & Project Manager (Technical Internship).
+* **Key Achievement**: Conducted user interviews to define requirements and implemented a hybrid architecture (SQL + JSON) to balance secure authentication with efficient content delivery.
+* **Security Focus**: Implemented **CSRF tokens**, **Bcrypt hashing**, and **Prepared Statements**.
+* **Stack**: PHP 8, MySQL/MariaDB, Bootstrap 5, JSON.
+
+---
+
+## Versión en Español (Detallada)
 
 Gestión de donaciones, difusión de noticias, galería de eventos y transparencia de necesidades escolares.
 
