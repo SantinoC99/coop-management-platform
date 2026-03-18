@@ -5,7 +5,7 @@ Gestión de donaciones, difusión de noticias, galería de eventos y transparenc
 
 Proyecto final de pasantía profesionalizante.
 
-**Stack:** PHP 8 | MySQL/MariaDB | Bootstrap 5 | JSON
+**Stack:** PHP 8 | MySQL/MariaDB | HTML5 | CSS3 (Bootstrap 5) | JSON
 
 ---
 
